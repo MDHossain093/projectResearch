@@ -1,0 +1,26 @@
+user,problem_id,rating,tags,verdict,timestamp
+fardin71,2121-D,1300,"implementation,sortings",OK,1750864955
+fardin71,2121-D,1300,"implementation,sortings",WRONG_ANSWER,1750864708
+fardin71,2112-B,1100,"brute force,greedy",OK,1750695229
+fardin71,2112-B,1100,"brute force,greedy",WRONG_ANSWER,1750691852
+fardin71,2112-A,800,"implementation,math",OK,1750690130
+fardin71,2112-A,800,"implementation,math",WRONG_ANSWER,1750689942
+fardin71,2112-A,800,"implementation,math",WRONG_ANSWER,1750689794
+fardin71,2121-C,1200,"greedy,implementation",OK,1750256649
+fardin71,2121-C,1200,"greedy,implementation",TIME_LIMIT_EXCEEDED,1750174753
+fardin71,2121-B,800,"constructive algorithms,greedy,strings",OK,1750172519
+fardin71,2121-A,800,"brute force,math",OK,1750171460
+fardin71,2021-A,800,"data structures,greedy,math,sortings",OK,1728195826
+fardin71,2000-C,1000,"data structures,strings",WRONG_ANSWER,1723564997
+fardin71,2000-B,800,two pointers,OK,1723562494
+fardin71,2000-A,800,"implementation,math,strings",OK,1723561722
+fardin71,1987-B,1000,greedy,OK,1719762274
+fardin71,1987-A,800,"greedy,math",OK,1719759102
+fardin71,1985-D,900,"implementation,math",OK,1718123238
+fardin71,1985-C,1000,greedy,OK,1718120966
+fardin71,1985-B,800,"brute force,math,number theory",OK,1718119357
+fardin71,1985-A,800,"implementation,strings",OK,1718117417
+fardin71,1969-A,800,"constructive algorithms,implementation,math",OK,1714407227
+fardin71,1253-A,1000,implementation,OK,1711398640
+fardin71,1253-A,1000,implementation,WRONG_ANSWER,1711398274
+fardin71,1253-A,1000,implementation,COMPILATION_ERROR,1711398248

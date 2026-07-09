@@ -1,0 +1,43 @@
+# Root .gitignore
+
+# Large data files (exceed GitHub's 100MB limit)
+backend/data/cf_predictions.csv
+backend/data/raw_submissions.csv
+backend/data/processed_data.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+.env
+.env.local
+.env.*.local
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.vercel/
+.turbo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
