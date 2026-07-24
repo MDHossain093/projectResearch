@@ -38,15 +38,36 @@ Works for **any** Codeforces handle — known users get pre‑computed SVD score
 
 ## 🖼️ Preview
 
-> Add screenshots later by dropping them in a `screenshots/` folder and replacing the paths below.
+> Drop screenshots into a `screenshots/` folder at the repo root and update the paths below — recruiters skim visuals first, so real screenshots dramatically increase engagement.
+
+<table align="center">
+  <tr>
+    <td align="center"><b>📊 Dashboard</b></td>
+    <td align="center"><b>🎯 Recommendations</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/dashboard.png" alt="Dashboard" width="480" /></td>
+    <td><img src="screenshots/recommend.png" alt="Recommendations" width="480" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧪 Weakness Analyzer</b></td>
+    <td align="center"><b>👥 Team Builder</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/weakness.png" alt="Weakness Analyzer" width="480" /></td>
+    <td><img src="screenshots/team.png" alt="Team Builder" width="480" /></td>
+  </tr>
+</table>
+
+### 📊 At-a-glance numbers
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Dashboard    │  Recommend │  Weakness  │  Team Builder     │
-│  ─────────────┼────────────┼────────────┼────────────────  │
-│  📊 1,000 users · 10,856 problems · 918,763 submissions   │
-│  Precision@10: 21.08%  ·  Recall@10: 2.68%  ·  NDCG@10: 22.95% │
-│  Weak Hit@10: 92.12%   ·  Tag F1: 56.51%                   │
+│  1,000 users · 10,856 problems · 918,763 submissions        │
+│  ────────────────────────────────────────────────────────── │
+│  Precision@10 : 21.08%   │  Recall@10 : 2.68%               │
+│  NDCG@10      : 22.95%   │  Weak Hit@10 : 92.12%            │
+│  Tag F1       : 56.51%   │  Model : Hybrid SVD              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
